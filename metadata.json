@@ -1,0 +1,6 @@
+{
+  "name": "SneakerClean Studio",
+  "description": "Single-page price estimator and direct lead closer for custom sneaker cleaning and restoration services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
